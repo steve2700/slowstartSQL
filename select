@@ -1,0 +1,3 @@
+#The following SQL statement selects the "CustomerName" and "City" columns from the "Customers" table:
+
+SELECT CustomerName, City FROM Customers;
